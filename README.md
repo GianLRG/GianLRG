@@ -24,9 +24,10 @@
 Actualmente me estoy especializando en **Ingeniería de Datos**, desarrollando proyectos prácticos centrados en *pipelines* de datos, tecnologías en la nube, análisis de datos e inteligencia empresarial.
 
 Mi objetivo es convertirme en **Ingeniero de Datos**, creando soluciones de datos escalables y eficientes mediante el uso de plataformas modernas en la nube.
+
 ---
 
-# 🎯 Current Focus
+# 🎯 Enfoque Actual
 
 - 📊 Data Engineering
 - ☁️ Microsoft Azure
@@ -100,56 +101,12 @@ Mi objetivo es convertirme en **Ingeniero de Datos**, creando soluciones de dato
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night"/>
-
-</p>
-
----
-
 # 🌎 Connect with Me
 
 📧 Email
 
-> TU_CORREO
+> gdavorlarosagavino@gmail.com
 
 💼 LinkedIn
 
-> https://linkedin.com/in/TU_USUARIO
-
-🐙 GitHub
-
-> https://github.com/TU_USUARIO
-> 
----
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=TU_USUARIO&style=for-the-badge)
-
-</div>
+> https://linkedin.com/in/gian-la-rosa
