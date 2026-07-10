@@ -17,7 +17,7 @@
 
 ---
 
-# 💻 About Me
+# 💻 Acerca de mi
 
 🎓 Bachiller en Ingeniería de Sistemas.
 
@@ -101,7 +101,7 @@ Mi objetivo es convertirme en **Ingeniero de Datos**, creando soluciones de dato
 
 ---
 
-# 🌎 Connect with Me
+# 🌎 Contactame
 
 📧 Email
 
