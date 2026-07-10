@@ -5,7 +5,7 @@
 ### 🚀 Data Engineer in Progress | Azure | Python | SQL | Power BI
 
 <p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=700&lines=Bachelor+in+Systems+Engineering;Aspiring+Data+Engineer;Azure+Certified+(AZ-900);Python+%7C+SQL+%7C+Power+BI+%7C+Databricks;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=700&lines=Bachiller+en+Ingeniería+de+Sistemas;Azure+Certified+(AZ-900);Python+%7C+SQL+%7C+Power+BI+%7C+Databricks;Aprendiendo+nuevas+tecnologías" />
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/TU_USUARIO)
@@ -19,12 +19,11 @@
 
 # 💻 About Me
 
-🎓 Bachelor's Degree in Systems Engineering.
+🎓 Bachiller en Ingeniería de Sistemas.
 
-I am currently specializing in **Data Engineering**, building practical projects focused on data pipelines, cloud technologies, analytics, and business intelligence.
+Actualmente me estoy especializando en **Ingeniería de Datos**, desarrollando proyectos prácticos centrados en *pipelines* de datos, tecnologías en la nube, análisis de datos e inteligencia empresarial.
 
-My goal is to become a **Data Engineer**, creating scalable and efficient data solutions using modern cloud platforms.
-
+Mi objetivo es convertirme en **Ingeniero de Datos**, creando soluciones de datos escalables y eficientes mediante el uso de plataformas modernas en la nube.
 ---
 
 # 🎯 Current Focus
@@ -89,76 +88,6 @@ My goal is to become a **Data Engineer**, creating scalable and efficient data s
 
 ---
 
-# 📚 Currently Learning
-
-✔ Advanced SQL
-
-✔ Python for Data Engineering
-
-✔ Azure Data Factory
-
-✔ Databricks
-
-✔ Apache Spark
-
-✔ Microsoft Fabric
-
-✔ Data Modeling
-
-✔ ETL Pipelines
-
-✔ Data Warehousing
-
-✔ Data Lake Architecture
-
----
-
-# 📂 Featured Projects
-
-### 📊 Data Analytics
-
-- Interactive Power BI Dashboards
-- Excel Business Reports
-- KPI Dashboards
-
----
-
-### 🐍 Python
-
-- Data Cleaning
-- Data Analysis
-- Automation Scripts
-- APIs
-
----
-
-### 🗄 SQL
-
-- Data Analysis Queries
-- Window Functions
-- Stored Procedures
-- Database Design
-
----
-
-### ☁ Azure
-
-- Azure Storage
-- Azure SQL
-- Azure Data Factory
-- Azure Data Lake
-
----
-
-### ⚡ Big Data
-
-- Apache Spark
-- Databricks Notebooks
-- ETL Pipelines
-- Microsoft Fabric
-
----
-
 # 🏆 Certifications
 
 🥇 Microsoft Certified: Azure Fundamentals (AZ-900)
@@ -166,7 +95,7 @@ My goal is to become a **Data Engineer**, creating scalable and efficient data s
 🎯 Preparing for:
 
 - DP-900
-- DP-203
+- AI-901
 - Databricks Fundamentals
 
 ---
@@ -216,17 +145,7 @@ My goal is to become a **Data Engineer**, creating scalable and efficient data s
 🐙 GitHub
 
 > https://github.com/TU_USUARIO
-
----
-
-<div align="center">
-
-## 🚀 My Goal
-
-*"Transforming raw data into valuable insights through scalable and modern data engineering solutions."*
-
-</div>
-
+> 
 ---
 
 <div align="center">
